@@ -49,7 +49,7 @@ function Board() {
             setWinner(player);
             setCurrentPlayer(player)
         }
-    }, [squares])
+    })
 
 
     return (
