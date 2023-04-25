@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+To play react Tic Tac Toy game : https://nagendra-ui.github.io/React-Typescript/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
